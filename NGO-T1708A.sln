@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGO-T1708A", "NGO-T1708A\NGO-T1708A.csproj", "{9873D152-2008-4633-B913-921E18B14BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9873D152-2008-4633-B913-921E18B14BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9873D152-2008-4633-B913-921E18B14BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9873D152-2008-4633-B913-921E18B14BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9873D152-2008-4633-B913-921E18B14BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BACA5A8-1033-4477-B509-AF326C4551F1}
+	EndGlobalSection
+EndGlobal
